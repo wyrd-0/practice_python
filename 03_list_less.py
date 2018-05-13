@@ -1,5 +1,3 @@
-import array
-
 while True:
 	c = input("Give a number:\n")
 	try:
